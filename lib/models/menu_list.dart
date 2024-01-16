@@ -1,0 +1,33 @@
+List<String> imagesList = [
+  "images/menu/option_1.png",
+  "images/menu/option_2.png",
+  "images/menu/option_3.png",
+  "images/menu/option_4.png",
+  "images/menu/option_5.png",
+  "images/menu/option_6.png",
+  "images/menu/option_7.png",
+  "images/menu/option_8.png",
+  "images/menu/option_9.png",
+  "images/menu/option_10.png",
+  "images/menu/option_11.png",
+  "images/menu/option_12.png",
+  "images/menu/option_13.png",
+  "images/menu/option_14.png",
+];
+
+List<String> titleList = [
+  'When we wake up',
+  'When we take a bath',
+  'When we comb our hair',
+  'Before we eat',
+  'Feeling scared',
+  'When we are about to travel',
+  'Sneezing',
+  'Feeling angry',
+  'Praying',
+  'Going to bed',
+  'When we feel sad',
+  'Feeling lonely',
+  'When it rains',
+  'When it snows',
+];
